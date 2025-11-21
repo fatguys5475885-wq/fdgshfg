@@ -3,3 +3,4 @@ log_entries.append(msg)
                         msg = f"⚠️ Không tìm thấy chuỗi trong: {full_path}"
                         print(msg)
                         log_entries.append(msg)
+fghjjiku
